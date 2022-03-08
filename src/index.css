@@ -1,0 +1,28 @@
+*,
+::before,
+::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+nav {
+  margin: 20px 0 50px 0;
+}
+
+nav a {
+  margin: 10px;
+  font-size: 50px;
+  text-decoration: none;
+  color: #333;
+  cursor: pointer;
+  padding: 10px;
+}
+
+
+.activeLink{
+  color: green;
+}

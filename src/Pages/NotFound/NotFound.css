@@ -1,0 +1,15 @@
+.nfContainer {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.nfTitle {
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+.nfBtn {
+    padding: 10px 20px;
+    margin-top: 20px;
+}
